@@ -1,5 +1,5 @@
 # Fetch---Data-Analyst-Manager-Take-Home
-Files for the Fetch Data Analyst Manager Take Home -- Abinav Bharadwaj
+                    Files for the Fetch Data Analyst Manager Take Home -- Abinav Bharadwaj
 
 For simplicity's sake, I've renamed PRODUCTS_TAKEHOME as products, TRANSACTION_TAKEHOME as transactions and USER_TAKEHOME as users
 
